@@ -1,5 +1,6 @@
 # SCRAP engine
 Alternative main board for the [Proto-panda](https://github.com/mockthebear/proto-panda) protogen head
+
 Instead of driving the panels directly, it uses the [RP-HUB75](https://github.com/RoboticsBrno/RP-HUB75) as the translator.
 
 <img src=imgs/thumbnail.png alt="main thumbnail" width="600"/>
@@ -23,7 +24,7 @@ Simplified design with only crucial features for running **SCRAP-OS** (Protogen 
 <img src=imgs/back.png alt="art on the back of PCB" width="600"/>
 
 ## Why?
-The original board is great, but I didn't want to use the original firmware, with it SD card would've been not useful. And I didn't need some of the original features
+The original board is great, but I didn't want to use the original firmware, with it SD card would've been not useful. And I didn't need some of the original features.
 That's why I made this board, it is only 2 layers, stripped down to only the things I need and uses the HUB75 driver I have laying around.
 
 ## Schematic
@@ -51,4 +52,6 @@ Then I used font "Chewy" from Googlefonts
 
 I have got inspiration from the project [Proto-panda](https://github.com/mockthebear/proto-panda).
 
-And I have looked at inspiration during wiring the display port from [Saturn](https://github.com/RoboticsBrno/Saturn).
+And I have looked at inspiration during wiring of the display port from [Saturn](https://github.com/RoboticsBrno/Saturn).
+
+And of course I thank again @FoxxerFelicity for giving me line art version of my protogen and their sona ^_^
