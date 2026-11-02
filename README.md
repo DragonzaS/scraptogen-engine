@@ -62,7 +62,7 @@ Full BOM [here](pcb/BOM-final.ods)
 | R22                           | 1        | C23138        | R0603                                    | 330Ω                             |                       |                        |
 | SW1,SW2                       | 2        | C720477       | SW-SMD_L3.9-W3.0-P4.45                   | TS-1088-AR02016                  |                       |                        |
 | TP1,TP2,TP3,TP4,TP5,TP7       | 6        |               | Test-Point-0.5mm                         | AMP_OUT,PRE_AMP,RAW_MC,RX,GND,TX |                       |                        |
-| U1                            | 1        | C2913202      | WIRELM-SMD_ESP32-S3-WROOM-1              | 2.4GHz                           | in BOM file           | 6.19USD                |
+| U1                            | 1        | C2913202      | WIRELM-SMD_ESP32-S3-WROOM-1              | 2.4GHz                           | in BOM file           | 6.3USD                |
 | U2                            | 1        | C5343095      | CONN-SMD_10P-P2.50_HANXIA_HX-2.54-10P-WT | HX 2.54-10P WT                   |                       |                        |
 | U3                            | 1        | C7430446      | CONN-SMD_4P-P1.00_MEGASTAR_ZX-SH1.0-4PWT | ZX-SH1.0-4PWT                    |                       |                        |
 | U4,U5                         | 2        | C20615817     | SOD-523_L1.2-W0.8-LS1.6-BI               | H3V3LD5B                         |                       |                        |
