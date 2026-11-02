@@ -41,7 +41,7 @@ Full PDF of the PCB design [here](pcb/SCRAP-engine-PCB-final.pdf)
 <img src=imgs/PCB-bottom.png alt="bottom layer" width="600"/>
 
 ## BOM
-Full BOM [here](pcb/BOM.ods)
+Full BOM [here](pcb/BOM-final.ods)
 
 | Designator                    | Quantity | Supplier Part | Footprint                                | Value                            | Sourced myself (link) | Price                  |
 |-------------------------------|----------|---------------|------------------------------------------|----------------------------------|-----------------------|------------------------|
