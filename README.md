@@ -40,6 +40,38 @@ Full PDF of the PCB design [here](pcb/SCRAP-engine-PCB-final.pdf)
 
 <img src=imgs/PCB-bottom.png alt="bottom layer" width="600"/>
 
+## BOM
+Full BOM [here](pcb/BOM.ods)
+
+| Designator                    | Quantity | Supplier Part | Footprint                                | Value                            | Sourced myself (link) | Price                  |
+|-------------------------------|----------|---------------|------------------------------------------|----------------------------------|-----------------------|------------------------|
+| C1,C5,C9                      | 3        | C15849        | C0603                                    | 1uF                              |                       |                        |
+| C2                            | 1        | C57112        | C0603                                    | 10nF                             |                       |                        |
+| C3                            | 1        | C14858        | C0603                                    | 100pF                            |                       |                        |
+| C4,C6,C7,C11,C16,C18,C19      | 7        | C96446        | C0603                                    | 10uF                             |                       |                        |
+| C8,C10,C15,C20                | 4        | C14663        | C0603                                    | 100nF                            |                       |                        |
+| L1,L2,L3                      | 3        | C14709        | L0603                                    | BLM18PG121SN1D                   |                       |                        |
+| LED1                          | 1        | C2286         | LED-SMD_L1.6-W0.8-R-RD                   | KT-0603R                         |                       |                        |
+| R1,R2,R3,R15,R23,R24,R25,R26  | 8        | C25804        | R0603                                    | 10kΩ                             |                       |                        |
+| R4,R5,R6,R7,R8,R9,R10,R11,R12 | 9        | C22775        | R0603                                    | 100Ω                             |                       |                        |
+| R13,R14,R16                   | 3        | C23186        | R0603                                    | 5.1kΩ                            |                       |                        |
+| R17,R18                       | 2        | C22935        | R0603                                    | 1MΩ                              |                       |                        |
+| R19                           | 1        | C48997895     | RES-ADJ-SMD_JER33X-1-14                  | 100kΩ                            |                       |                        |
+| R20                           | 1        | C31850        | R0603                                    | 22kΩ                             |                       |                        |
+| R21,R27,R28                   | 3        | C21190        | R0603                                    | 1kΩ                              |                       |                        |
+| R22                           | 1        | C23138        | R0603                                    | 330Ω                             |                       |                        |
+| SW1,SW2                       | 2        | C720477       | SW-SMD_L3.9-W3.0-P4.45                   | TS-1088-AR02016                  |                       |                        |
+| TP1,TP2,TP3,TP4,TP5,TP7       | 6        |               | Test-Point-0.5mm                         | AMP_OUT,PRE_AMP,RAW_MC,RX,GND,TX |                       |                        |
+| U1                            | 1        | C2913202      | WIRELM-SMD_ESP32-S3-WROOM-1              | 2.4GHz                           | in BOM file           | 6.19USD                |
+| U2                            | 1        | C5343095      | CONN-SMD_10P-P2.50_HANXIA_HX-2.54-10P-WT | HX 2.54-10P WT                   |                       |                        |
+| U3                            | 1        | C7430446      | CONN-SMD_4P-P1.00_MEGASTAR_ZX-SH1.0-4PWT | ZX-SH1.0-4PWT                    |                       |                        |
+| U4,U5                         | 2        | C20615817     | SOD-523_L1.2-W0.8-LS1.6-BI               | H3V3LD5B                         |                       |                        |
+| U6                            | 1        | C7456762      | SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR         | MAX4466EXK+T                     |                       |                        |
+| U8                            | 1        | C51118        | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL        | AP2112K-3.3TRG1                  |                       |                        |
+| USB1                          | 1        | C5440757      | USB-C-SMD_HANELECTRICITY_161N-4XVS11     | 161N-4PVS11                      |                       |                        |
+| H5                            | 1        |               | ELECTRET MICROPHONE                      | AL GOODWELL OA67PF583C2PER       | in BOM file           | 0.69USD                |
+
+
 ## Firmware
 
 Firmware called **SCRAP-OS** will be worked on, but at the moment doesn't exist.
