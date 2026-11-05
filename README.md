@@ -74,7 +74,7 @@ Full BOM [here](pcb/BOM-final.ods)
 
 ## Firmware
 
-Firmware called **SCRAP-OS** will be worked on, but at the moment doesn't exist.
+Firmware called **SCRAP-OS** is being worked on, at the moment it is untested code, should show basic expression on the displays.
 
 ## Credits + extra
 
