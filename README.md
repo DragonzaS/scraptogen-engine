@@ -40,8 +40,8 @@ Full PDF of the PCB design [here](pcb/SCRAP-engine-PCB-final.pdf)
 
 <img src=imgs/PCB-bottom.png alt="bottom layer" width="600"/>
 
-## BOM
-Full BOM [here](pcb/BOM-final.ods)
+## Bill of Material
+Full BOM [here]([pcb/BOM-final.ods](https://github.com/DragonzaS/scraptogen-engine/tree/main/pcb))(link to the pcb folder)
 
 | Designator                    | Quantity | Supplier Part | Footprint                                | Value                            | Sourced myself (link) | Price                  |
 |-------------------------------|----------|---------------|------------------------------------------|----------------------------------|-----------------------|------------------------|
@@ -71,7 +71,18 @@ Full BOM [here](pcb/BOM-final.ods)
 | USB1                          | 1        | C5440757      | USB-C-SMD_HANELECTRICITY_161N-4XVS11     | 161N-4PVS11                      |                       |                        |
 | H5                            | 1        |               | ELECTRET MICROPHONE                      | AL GOODWELL OA67PF583C2PER       | in BOM file           | 0.69USD                |
 
+### Cost for the PCB & PCBA:
+screenshot from JLCPCB, doesn't include taxes and shipping
 
+<img src=imgs/jlc-price.png alt="JLCPCB screenshot" width="600"/>
+
+Costs (As of November 9th, 2026):
+
+$37.54 (the PCB) + $ 6.89 (ESP32 module and microphone)
+
+**Total cost: $44.43**
+
+Plus taxes and shipping (for me that comes out at around $29 + $1.5 for in store pick up of the components)
 ## Firmware
 
 Firmware called **SCRAP-OS** is being worked on, at the moment it is untested code, should show basic expression on the displays.
