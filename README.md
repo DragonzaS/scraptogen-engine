@@ -82,7 +82,8 @@ $37.54 (the PCB) + $ 6.89 (ESP32 module and microphone)
 
 **Total cost: $44.43**
 
-Plus taxes and shipping (for me that comes out at around $29 + $1.5 for in store pick up of the components)
+Plus taxes and shipping (for me that comes out at around extra $29 + $1.5 for in store pick up of the components).
+Total cost for me will be around $75.
 ## Firmware
 
 Firmware called **SCRAP-OS** is being worked on, at the moment it is untested code, should show basic expression on the displays.
