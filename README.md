@@ -68,7 +68,7 @@ Full BOM [here]([pcb/BOM-final.ods](https://github.com/DragonzaS/scraptogen-engi
 | U6                            | 1        | C7456762      | SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR         | MAX4466EXK+T                     | [link](https://jlcpcb.com/partdetail/C7456762)                      | $1.06                  |
 | U8                            | 1        | C51118        | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL        | AP2112K-3.3TRG1                  | [link](https://jlcpcb.com/partdetail/C51118)                      | $0.17                  |
 | USB1                          | 1        | C5440757      | USB-C-SMD_HANELECTRICITY_161N-4XVS11     | 161N-4PVS11                      | [link](https://jlcpcb.com/partdetail/C5440757)                      | $0.06                  |
-| H5                            | 1        |               | ELECTRET MICROPHONE                      | AL GOODWELL OA67PF583C2PER       | [local link](https://www.gme.cz/v/1495911/al-goodwell-oa67pf583c2per-elektretovy-mikrofon)                      | 0.69USD                |
+| H5                            | 1        |               | ELECTRET MICROPHONE                      | AL GOODWELL OA67PF583C2PER       | [local link](https://www.gme.cz/v/1495911/al-goodwell-oa67pf583c2per-elektretovy-mikrofon)                      | $0.69                |
 
 ### Cost for the PCB & PCBA:
 screenshot from JLCPCB, doesn't include taxes and shipping
