@@ -61,14 +61,14 @@ Full BOM [here]([pcb/BOM-final.ods](https://github.com/DragonzaS/scraptogen-engi
 | R21,R27,R28                   | 3        | C21190        | R0603                                    | 1kΩ                              | [link](https://jlcpcb.com/partdetail/C21190)                      | $0.01                  |
 | R22                           | 1        | C23138        | R0603                                    | 330Ω                             | [link](https://jlcpcb.com/partdetail/C23138)                      | $0.01                  |
 | SW1,SW2                       | 2        | C720477       | SW-SMD_L3.9-W3.0-P4.45                   | TS-1088-AR02016                  | [link](https://jlcpcb.com/partdetail/C720477)                      | $0.10                  |
-| U1                            | 1        | C2913202      | WIRELM-SMD_ESP32-S3-WROOM-1              | 2.4GHz                           | [link](https://jlcpcb.com/partdetail/C2913202)                      | $5.35(local $6.3)      |
+| U1                            | 1        | C2913202      | WIRELM-SMD_ESP32-S3-WROOM-1              | 2.4GHz                           | [link](https://jlcpcb.com/partdetail/C2913202) [local link](https://www.gme.cz/v/1495911/al-goodwell-oa67pf583c2per-elektretovy-mikrofon)                      | $5.35(local $6.3)      |
 | U2                            | 1        | C5343095      | CONN-SMD_10P-P2.50_HANXIA_HX-2.54-10P-WT | HX 2.54-10P WT                   | [link](https://jlcpcb.com/partdetail/C5343095)                      | $0.10                  |
 | U3                            | 1        | C7430446      | CONN-SMD_4P-P1.00_MEGASTAR_ZX-SH1.0-4PWT | ZX-SH1.0-4PWT                    | [link](https://jlcpcb.com/partdetail/C7430446)                      | $0.07                  |
 | U4,U5                         | 2        | C20615817     | SOD-523_L1.2-W0.8-LS1.6-BI               | H3V3LD5B                         | [link](https://jlcpcb.com/partdetail/C20615817)                      | $0.04                  |
 | U6                            | 1        | C7456762      | SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR         | MAX4466EXK+T                     | [link](https://jlcpcb.com/partdetail/C7456762)                      | $1.06                  |
 | U8                            | 1        | C51118        | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL        | AP2112K-3.3TRG1                  | [link](https://jlcpcb.com/partdetail/C51118)                      | $0.17                  |
 | USB1                          | 1        | C5440757      | USB-C-SMD_HANELECTRICITY_161N-4XVS11     | 161N-4PVS11                      | [link](https://jlcpcb.com/partdetail/C5440757)                      | $0.06                  |
-| H5                            | 1        |               | ELECTRET MICROPHONE                      | AL GOODWELL OA67PF583C2PER       |                       | 0.69USD                |
+| H5                            | 1        |               | ELECTRET MICROPHONE                      | AL GOODWELL OA67PF583C2PER       | [local link](https://www.gme.cz/v/1495911/al-goodwell-oa67pf583c2per-elektretovy-mikrofon)                      | 0.69USD                |
 
 ### Cost for the PCB & PCBA:
 screenshot from JLCPCB, doesn't include taxes and shipping
